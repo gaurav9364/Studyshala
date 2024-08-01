@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Studyshala</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="Join">Join the StudyShala community today and take the first step towards academic excellence. Whether you are a student looking to improve your grades, a parent seeking the best educational resources for your child, or an educator aiming to enhance your teaching methods, StudyShala is here to support you every step of the way.</string>
+    <string name="Vision">We believe in a world where every student has access to quality education and the resources necessary to excel. Our vision is to create an inclusive, engaging, and effective learning environment that caters to the diverse needs of learners everywhere.</string>
+    <string name="Contact">We love to hear from our users! If you have any questions, feedback, or suggestions, please feel free to reach out to us at [gauravyadav4664@gmail.com] or follow us on our social media channels. Together, let us make learning a joyous and rewarding experience!</string>
+    <string name="About">Welcome to StudyShala!
+At StudyShala, we are dedicated to transforming the way students learn and achieve their academic goals.
+        Our mission is to provide a comprehensive and interactive learning platform that empowers students
+        with the tools they need to succeed in their educational journey.
+    </string>
+</resources>

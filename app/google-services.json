@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386086958317",
+    "project_id": "studyshala-73051",
+    "storage_bucket": "studyshala-73051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386086958317:android:b737b3b8f0e220cc2348e4",
+        "android_client_info": {
+          "package_name": "com.projects.studyshala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5jGiCQ1vk86IA7hecTSY-gegOtRr5-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
